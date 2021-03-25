@@ -2,4 +2,3 @@
 - 👀 I’m interested in linux
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on free software linux related.
-- 📫 How to reach me mohammed.mizab.latrache@gmail.com
